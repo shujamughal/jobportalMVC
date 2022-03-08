@@ -1,0 +1,76 @@
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Infra.IoC.deps.json
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Infra.IoC.dll
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\ref\CleanArchitecture.Infra.IoC.dll
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Infra.IoC.pdb
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Application.dll
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.dll
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanArchitecture.Infrastructure.Data.dll
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Application.pdb
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanArchitecture.Infrastructure.Data.pdb
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.pdb
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.AssemblyInfo.cs
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.csproj.CopyComplete
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.dll
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\ref\CleanArchitecture.Infra.IoC.dll
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.pdb
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Infra.IoC.deps.json
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Infra.IoC.dll
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\ref\CleanArchitecture.Infra.IoC.dll
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Infra.IoC.pdb
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Application.dll
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.dll
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanArchitecture.Infrastructure.Data.dll
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Application.pdb
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanArchitecture.Infrastructure.Data.pdb
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.pdb
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.AssemblyInfo.cs
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.csproj.CopyComplete
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.dll
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\ref\CleanArchitecture.Infra.IoC.dll
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.pdb
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Infra.IoC.deps.json
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Infra.IoC.dll
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\ref\CleanArchitecture.Infra.IoC.dll
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Infra.IoC.pdb
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Application.dll
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.dll
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanArchitecture.Infrastructure.Data.dll
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Application.pdb
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanArchitecture.Infrastructure.Data.pdb
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.pdb
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.AssemblyInfo.cs
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.csproj.CopyComplete
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.dll
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\ref\CleanArchitecture.Infra.IoC.dll
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.pdb
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Infra.IoC.deps.json
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Infra.IoC.dll
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\ref\CleanArchitecture.Infra.IoC.dll
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Infra.IoC.pdb
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Application.dll
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.dll
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanArchitecture.Infrastructure.Data.dll
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CleanArchitecture.Application.pdb
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanArchitecture.Infrastructure.Data.pdb
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.pdb
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.AssemblyInfo.cs
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.csproj.CopyComplete
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.dll
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\ref\CleanArchitecture.Infra.IoC.dll
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CleanArchitecture.Infra.IoC\obj\Debug\net5.0\CleanArchitecture.Infra.IoC.pdb

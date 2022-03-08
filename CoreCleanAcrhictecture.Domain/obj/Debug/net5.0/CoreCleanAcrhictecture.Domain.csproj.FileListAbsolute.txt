@@ -1,0 +1,48 @@
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.deps.json
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.dll
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\ref\CoreCleanAcrhictecture.Domain.dll
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.pdb
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.csprojAssemblyReference.cache
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.AssemblyInfoInputs.cache
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.AssemblyInfo.cs
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.dll
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\ref\CoreCleanAcrhictecture.Domain.dll
+C:\Users\zayya\Desktop\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.pdb
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.deps.json
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.dll
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\ref\CoreCleanAcrhictecture.Domain.dll
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.pdb
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.csproj.AssemblyReference.cache
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.AssemblyInfo.cs
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.dll
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\ref\CoreCleanAcrhictecture.Domain.dll
+C:\Users\Atif Talib\Documents\GitHub\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.pdb
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.deps.json
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.dll
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\ref\CoreCleanAcrhictecture.Domain.dll
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.pdb
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.csprojAssemblyReference.cache
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.AssemblyInfoInputs.cache
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.AssemblyInfo.cs
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.dll
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\ref\CoreCleanAcrhictecture.Domain.dll
+C:\Users\zayya\Documents\Final Year Porject\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.pdb
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.deps.json
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.dll
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\ref\CoreCleanAcrhictecture.Domain.dll
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\bin\Debug\net5.0\CoreCleanAcrhictecture.Domain.pdb
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.AssemblyInfoInputs.cache
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.AssemblyInfo.cs
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.dll
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\ref\CoreCleanAcrhictecture.Domain.dll
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.pdb
+C:\Users\umair\Desktop\FinalFYP\OnlineJobPortalFYP\CoreCleanAcrhictecture.Domain\obj\Debug\net5.0\CoreCleanAcrhictecture.Domain.csprojAssemblyReference.cache
